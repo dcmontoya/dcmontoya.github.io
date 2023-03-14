@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Linux/x86 (vers 1 September 2005), see www.w3.org" />
+  <meta http-equiv="Content-Type" content=
+  "text/html; charset=us-ascii" />
+
+  <title>Teaching</title>
+  <link href="stylep.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div id="container">
+    <div id="header">
+
+            <h1>Teaching</h1>  
+         
+     <br />
+      <hr />
+    </div><!-- end header -->
+
+    <div id="main">
+     <ul>
+    <li>
+    <p> <b>Winter Semester 2016 </b>. PS introduction to mathematical logic.</p>
+</li>
+             <ul> 
+             <li> <a href=
+      "Week1.pdf"> Exercises Week 1.</a> </li>
+<li> <a href=
+      "Week2.pdf"> Exercises Week 2.</a> </li>
+<li> <a href=
+      "Week3.pdf"> Exercises Week 3.</a> </li>
+                       
+<li> <a href=
+      "Week4.pdf"> Exercises Weeks 4 and 5 (Please check your email).</a> </li>
+                      
+    </li>
+<li> <a href=
+      "Week6.pdf"> Exercises Week 6.</a> </li>
+                       
+<li> <a href=
+      "Week7.pdf"> Exercises Week 7.</a> </li>
+<li> <a href=
+      "Week8.pdf"> Exercises Week 8.</a> </li>
+<li> <a href=
+      "Week9.pdf"> Exercises Week 10.</a> </li>
+<li> <a href=
+      "Week10.pdf"> Exercises Week 11.</a> </li>
+                       </ul>
+    </ul>
+
+    </div>
+
+    <div id="footer">
+      <hr />
+
+      <p class="left"> <a href=
+      "index.html">Back to the main page</a> 
+</p>
+
+      <p class="right">Design credit <a href=
+      " http://www.oswd.org/design/information/id/3621/">syndicateme.net</a> 2007</p>
+
+      <p>&nbsp;</p>
+    </div><!-- end footer -->
+  </div><!-- end container -->
+</body>
+</html>

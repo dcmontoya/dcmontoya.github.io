@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Linux/x86 (vers 1 September 2005), see www.w3.org" />
+  <meta http-equiv="Content-Type" content=
+  "text/html; charset=us-ascii" />
+
+  <title>Diana Carolina Montoya</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div id="container">
+    <div id="header">
+       <p style="text-align:right"> <a href=
+      "index.html">English</a> </p>
+      <h1>Diana Carolina Montoya</h1>  
+      <h2>Kurt G&ouml;del Research Center for Mathematic Logic.
+     </h2>
+     
+     <br />
+      <hr />
+    </div><!-- end header -->
+
+    <div id="left">
+    <p>
+    <img src="perfil.jpg" alt="some text" width="250" height="250"/>
+    
+    </p>
+      <h3>Navegaci&oacute;n</h3>
+
+      <p>  <a href=
+      "pub1.html">Publicaciones</a><br />
+       <a href=
+      "CVsp.pdf">Hoja de vida</a><br />
+       <a href=
+      "talkse.html">Charlas</a></p>
+
+    
+
+    </div><!-- end left division -->
+
+    <div id="main">
+      <h3><b>Acerca de m&iacute;:</b></h3>
+
+      <p> Actualmente soy estudiante doctoral en el   
+      <a href="http://www.logic.univie.ac.at/Home.html" >Kurt G&ouml;del Research Center for Mathemathical
+      Logic </a>
+      (Universidad de Viena) en donde trabajo bajo la supervisi&oacute;n del profesor <a href="http://www.logic.univie.ac.at/~sdf/" >
+      Sy-David Friedman</a>. Mis intereses acad&eacute;micos incluyen, principalmente teor&iacute;a de conjuntos. Espec&iacute;ficamente forcing y cardinales invariantes del continuo, as&iacute; como sus generalizaciones al contexto de cardinales no enumerables.</p>
+
+<p>Mis estudios previos en Matem&aacute;ticas tuvieron lugar en   Bogot&aacute;, Colombia en la <a href="http://matematicas.uniandes.edu.co/" >
+      Universidad de los Andes</a> (Maestr&iacute;a) y la <a href="http://ciencias.bogota.unal.edu.co/departamentos/matematicas" >
+      Universidad Nacional de Colombia</a> (Pregrado). 
+</p>
+
+      
+      <h3><b>Informaci&oacute;n de Contacto:</b></h3>
+
+      <p>
+Kurt G&ouml;del Research Center for Mathematical Logic <br/>
+W&auml;hringer Stra&szlig;e 25 <br/>
+1090 Wien<br/>
+ &Ouml;sterreich <br/> 
+Phone: +43-1-4277-50538 <br/>
+E-mail: dcmontoyaa@gmail.com </p>
+
+<h3><b>L&oacute;gica en Colombia:</b></h3>
+<p> 
+<a href="https://sites.google.com/a/unal.edu.co/logbog/"> Grupo de L&oacute;gica de Bogot&aacute;  </a>
+
+
+    </div>
+
+    <div id="footer">
+      <hr />
+
+      <p class="right">Cr&iacute;edito del dise&ntilde;o de la p&aacute;gina <a href=
+      " http://www.oswd.org/design/information/id/3621/">syndicateme.net</a> 2007</p>
+
+      <p>&nbsp;</p>
+    </div><!-- end footer -->
+  </div><!-- end container -->
+</body>
+</html>
